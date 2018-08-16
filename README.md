@@ -1,5 +1,5 @@
 # FNC-1 Challenge
-## This is my indivudual NLP course (MSCI641,the University of Waterloo) project. Course Page: https://uwaterloo.ca/graduate-studies-academic-calendar/node/7481
+## This is my indivudual NLP course project (MSCI641,the University of Waterloo). Course Page: https://uwaterloo.ca/graduate-studies-academic-calendar/node/7481
 
 Project Introduction: 
 The Project description has been adapted from the description on the FNC-1 website (http://www.fakenewschallenge.org). 
@@ -16,9 +16,9 @@ Development Environment:
 The code for these four models was developed under the environment of Python 3.6.6, Keras 2.2.2, and Tensorflow 1.9.0.
 
 Reference: 
-Fake News Challenge Stage 1 (FNC-1): Stance Detection http://www.fakenewschallenge.org 
-FNC-1 Github repositories: https://github.com/FakeNewsChallenge 
-FNC-1 official baseline github: https://github.com/FakeNewsChallenge/fnc-1-baseline.  
-Codalab: https://competitions.codalab.org/competitions/19111#phases.
+Fake News Challenge Stage 1 (FNC-1): Stance Detection http://www.fakenewschallenge.org <br /> 
+FNC-1 Github repositories: https://github.com/FakeNewsChallenge <br />
+FNC-1 official baseline github: https://github.com/FakeNewsChallenge/fnc-1-baseline.<br />  
+Codalab: https://competitions.codalab.org/competitions/19111#phases.<br />
 Stephen Pfohl, Oskar Triebe, and Ferdinand Legros. 2017. Stance Detection for the Fake News Challenge with Attention and Conditional Encoding
  
