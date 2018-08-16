@@ -15,7 +15,7 @@ I implemented **four neural network models** to deal with this problem:  **LSTMs
 ### Development Environment:<br />
 The code for these four models was developed under the environment of Python 3.6.6, Keras 2.2.2, and Tensorflow 1.9.0.
 
-###Reference:<br /> 
+### Reference:<br /> 
 Fake News Challenge Stage 1 (FNC-1): Stance Detection http://www.fakenewschallenge.org <br /> 
 FNC-1 Github repositories: https://github.com/FakeNewsChallenge <br />
 FNC-1 official baseline github: https://github.com/FakeNewsChallenge/fnc-1-baseline <br />
