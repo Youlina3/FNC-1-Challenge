@@ -19,6 +19,6 @@ Reference:
 Fake News Challenge Stage 1 (FNC-1): Stance Detection http://www.fakenewschallenge.org 
 FNC-1 Github repositories: https://github.com/FakeNewsChallenge 
 FNC-1 official baseline github: https://github.com/FakeNewsChallenge/fnc-1-baseline.  
-Codalab: https://competitions.codalab.org/competitions/19111#phases. 
+Codalab: https://competitions.codalab.org/competitions/19111#phases.
 Stephen Pfohl, Oskar Triebe, and Ferdinand Legros. 2017. Stance Detection for the Fake News Challenge with Attention and Conditional Encoding
  
